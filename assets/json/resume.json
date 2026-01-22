@@ -71,9 +71,7 @@
       "startDate": "2017-08-01",
       "endDate": "2017-10-01",
       "summary": "Creation of a web portal for internal use that helped with yard management and truck positioning for their main loading/repairing site.",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     }
   ],
   "volunteer": [],
@@ -86,12 +84,7 @@
       "startDate": "2021-01-01",
       "endDate": "",
       "score": "",
-      "courses": [
-        "Multi-lingual Open Information Extraction",
-        "Knowledge Graphs",
-        "Language Models",
-        "Low Resource Information Extraction"
-      ]
+      "courses": ["Multi-lingual Open Information Extraction", "Knowledge Graphs", "Language Models", "Low Resource Information Extraction"]
     },
     {
       "institution": "Linköping University",
@@ -102,9 +95,7 @@
       "startDate": "2025-08-07",
       "endDate": "2025-12-11",
       "score": "",
-      "courses": [
-        "NLP Group Collaboration"
-      ]
+      "courses": ["NLP Group Collaboration"]
     },
     {
       "institution": "University of Aveiro",
@@ -114,21 +105,17 @@
       "startDate": "2019-08-01",
       "endDate": "2021-12-31",
       "score": "",
-      "courses": [
-        "Ontologies",
-        "Text Classifiers"
-      ]
+      "courses": ["Ontologies", "Text Classifiers"]
     },
     {
-        "institution": "Instituto Superior de Engenharia de Coimbra",
-        "url": "https://www.isec.pt/PT/Default.aspx",
-        "area": "Computer Engineering",
-        "studyType": "Bachelor of Science",
-        "startDate": "2016-06-01",
-        "endDate": "2019-06-01",
-        "score": "",
-        "courses": [
-        ]
+      "institution": "Instituto Superior de Engenharia de Coimbra",
+      "url": "https://www.isec.pt/PT/Default.aspx",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-06-01",
+      "endDate": "2019-06-01",
+      "score": "",
+      "courses": [] 
     }
   ],
   "awards": [
@@ -173,7 +160,7 @@
       "url": "https://link.springer.com/chapter/10.1007/978-3-032-01130-5_31",
       "summary": "Gabriel Silva, Mário Rodrigues, Marlene Amorim, Armando Pinho."
     },
-        {
+    {
       "name": "Inductive Learning on Heterogeneous Graphs Enhanced by LLMs for Software Mention Detection",
       "publisher": "ACL Workshop - Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)",
       "releaseDate": "2025-06-01",
@@ -296,12 +283,7 @@
     {
       "name": "Data & Engineering",
       "level": "Advanced",
-      "keywords": [
-        "Information Retrieval",
-        "Ontologies",
-        "Knowledge Representation",
-        "Python"
-      ]
+      "keywords": ["Information Retrieval", "Ontologies", "Knowledge Representation", "Python"]
     }
   ],
   "languages": [
