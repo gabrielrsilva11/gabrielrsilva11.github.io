@@ -7,7 +7,7 @@ subtitle: PhD Candidate and Researcher @ IEETA, Universidade de Aveiro.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:
     <p>Attempting to bridge the gap between LLMs and Structured Knowledge</p>
     <p>Aveiro, Portugal</p>
