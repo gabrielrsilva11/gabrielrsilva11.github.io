@@ -1,97 +1,268 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Albert Einstein
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, German
+
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1905
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Federal teaching diploma
+#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#       year: 1900
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Gabriel Silva
+    - name: Label
+      value: Ph.D. Candidate in Computer Science
+    - name: Email
+      value: gabrielrsilva11@gmail.com
     - name: Languages
-      value: English, German
+      value: Portuguese (Native), English (Fluent), Spanish (Basic), German (Basic)
+    - name: Location
+      value: Aveiro, Portugal
+    - name: Website
+      value: <a href="https://www.linkedin.com/in/gabriel-silva-028707143/">LinkedIn</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science
+      institution: <a href="https://www.ua.pt/">University of Aveiro</a>
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Specializing in Natural Language Processing and Knowledge Graphs.
+        - title: Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Multi-lingual Open Information Extraction
+            - Knowledge Graphs
+            - Language Models
+            - Low Resource Information Extraction
+    - title: Ph.D. Exchange in Computer Science
+      institution: <a href="https://liu.se/en">Linköping University</a>, Sweden
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
+        - NLP Group Collaboration
+    - title: Master of Science in Computer Engineering
+      institution: <a href="https://www.ua.pt/">University of Aveiro</a>
+      year: 2019 - 2021
+      description:
+        - title: Courses
+          contents:
+            - Ontologies
+            - Text Classifiers
+    - title: Bachelor of Science in Computer Engineering
+      institution: <a href="https://www.isec.pt/PT/Default.aspx">Instituto Superior de Engenharia de Coimbra</a>
+      year: 2016 - 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher
+      institution: <a href="https://www.ua.pt/ieeta/">IEETA / Universidade de Aveiro</a>
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research focused on multi-lingual Open Information Extraction, specifically for Portuguese, by merging Knowledge Graphs with Language Models.
+        - Won funding for the project 'Natural Language Processing based on Graph Machine Learning and Deep Learning for Information Extraction' (RNCA and Google Cloud, 2nd edition). Project awarded 100% funding and a grade of 9.22/10.
+        - Published several papers on NLP, Knowledge Management, Open Information Extraction, and Named Entity Recognition.
+        - Collaborated with researchers in tourism and chemistry on Machine Learning projects, leading to additional publications.
+        - Spent a semester abroad at Linköping University fostering relationships between Research Units and collaborating with their NLP group.
+        - Part of the Organization Committee for SLATE'24 (Symposium on Languages, Applications and Technologies) and IberSPEECH'25.
+
+    - title: Assistant Professor
+      institution: ESTGA - Universidade de Aveiro
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Teaching responsibilities for Masters and Bachelor students.
+        - Taught classes focused on Knowledge Graph Databases and Object Oriented Programming.
+        - Graded and created tests and assignments.
+        - Maintained regular office hours to provide struggling students with additional course help.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Web and Android Developer
+      institution: G-Lok Systems, United Kingdom (Remote)
+      year: 2022
       description:
+        - Development of an Android app and Web Page for visualization of GPS signals by trucks using IoT devices.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Web Developer
+      institution: Turners (Soham), United Kingdom
+      year: 2017
+      description:
+        - Creation of a web portal for internal use that helped with yard management and truck positioning for their main loading/repairing site.
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Local LLM Deployment
+      year: 2025
+      description: Interested in learning about local LLMs and the whole deployment pipeline as well as building RAG systems.
+    - title: Precision GPS location with the Sigfox network
+      year: 2017 - 2018
+      description: Development of a precision GPS location module using an Arduino board and the low latency Sigfox network.
+
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Benchmarking Portuguese Open Information Extraction (LREC 2026 - Under Review)
+        - Deepening Graph-Based Approaches for Portuguese Open Information Extraction with LLM Augmentation (Computer Speech and Language Journal - Under Review)
+    - year: 2025
+      items:
+        - <a href="https://link.springer.com/chapter/10.1007/978-3-032-01130-5_31">Automating Job Post Alignment With Esco For Labor Market Insights</a> (WorldCIST 2025)
+        - <a href="https://doi.org/10.18653/v1/2025.sdp-1.16">Inductive Learning on Heterogeneous Graphs Enhanced by LLMs for Software Mention Detection</a> (ACL Workshop - SDP 2025)
+        - <a href="https://doi.org/10.1002/pol.20241131">Recycling of a Polymer Mixture... and Development of Machine Learning Models</a> (Journal of Polymer Science)
+    - year: 2024
+      items:
+        - <a href="https://doi.org/10.4230/OASIcs.SLATE.2024.1">Using Embeddings to Improve Named Entity Recognition Classification with Graphs</a> (SLATE 2024)
+        - <a href="https://doi.org/10.21437/iberspeech.2024-13">Advancing Open Information Extraction for Portuguese by Leveraging Graph Structures and Large Language Models</a> (IberSPEECH 2024)
+        - <a href="https://doi.org/10.21437/iberspeech.2024-11">OPENER - Open-NER in domains without annotated resources</a> (IberSPEECH 2024)
+        - <a href="https://aclanthology.org/2024.propor-1.61/">First assessment of Graph Machine Learning approaches to Portuguese Named Entity Recognition</a> (PROPOR 2024)
+    - year: 2023
+      items:
+        - <a href="https://doi.org/10.4230/OASIcs.SLATE.2023.2">A Framework for Fostering Easier Access to Enriched Textual Information</a> (SLATE 2023)
+    - year: 2022
+      items:
+        - "Book: Transformação digital e o futuro do mercado de trabalho"
+        - "Book: Transformação digital: competências transversais para o futuro do mercado de trabalho"
+        - <a href="https://ibima.org/accepted-paper/how-green-are-the-competency-requirements-for-project-managers-an-exploratory-analysis-of-online-job-adds-for-the-region-of-aveiro/">How green are the competency requirements for project managers?</a> (39th IBIMA Conference)
+        - <a href="https://ibima.org/accepted-paper/investigating-the-density-of-competency-demands-at-regional-level-from-the-analysis-of-online-job-advertisements/">Investigating the density of competency demands at regional level</a> (39th IBIMA Conference)
+        - <a href="https://ibima.org/accepted-paper/when-the-jobs-of-the-future-meet-their-key-competencies-an-exploratory-study-to-align-the-perspective-of-world-economic-forum-and-the-occupations-in-esco-database/">When the jobs of the future meet their key competencies</a> (39th IBIMA Conference)
+        - <a href="https://doi.org/10.21125/inted.2022.2010">COMPETENCIES FOR THE IMPLEMENTATION OF INDUSTRY 4.0</a> (INTED 2022)
+    - year: 2020
+      items:
+        - <a href="https://www.iadisportal.org/digital-library/assessing-job-market-dynamics-using-elk-stack">Assessing Job Market Dynamics Using ELK Stack</a> (International Conference WWW/Internet)
+    - year: 2019
+      items:
+        - <a href="https://doi.org/10.1109/DICTA47822.2019.8945835">Automatic Generation of Lymphoma Post-Treatment PETs using Conditional-GANs</a> (DICTA 2019)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Advanced Computing Projects (AI in Cloud Funding) - Awarded by RNCA / Google (100% Computing funding, Grade 9.22/10)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI & Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Natural Language Processing (NLP)
+        - Knowledge Graphs
+        - Graph Machine Learning
+        - Large Language Models (LLMs)
+        - Open Information Extraction
+        - Named Entity Recognition (NER)
+        - Convolutional Neural Networks (CNNs)
+        - PyTorch
+    - title: Data & Engineering
       items:
-        - Description 1.
-        - Description 2.
+        - Information Retrieval
+        - Ontologies
+        - Knowledge Representation
+        - Python
 
-- title: Other Interests
+- title: Certificates
+  type: time_table
+  contents:
+    - title: Convolutional Neural Networks
+      year: 2019
+      description: Coursera (deeplearning.ai)
+    - title: Machine Learning
+      year: 2019
+      description: Coursera (Stanford)
+
+- title: Socials
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <a href="https://www.linkedin.com/in/gabriel-silva-028707143/">LinkedIn</a>
+    - <a href="https://orcid.org/0000-0001-6798-9827">ORCID</a>
+    - <a href="https://scholar.google.com/citations?user=vdneGOgAAAAJ&hl=en">Google Scholar</a>
