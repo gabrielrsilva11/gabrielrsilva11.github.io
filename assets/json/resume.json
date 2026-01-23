@@ -4,8 +4,8 @@
     "label": "Ph.D. Candidate in Computer Science",
     "image": "",
     "email": "gabrielrsilva11@gmail.com",
-    "phone": "916350059",
-    "url": "https://www.linkedin.com/in/gabriel-silva-028707143/",
+    "phone": "+351 916350059",
+    "LinkedIn": "https://www.linkedin.com/in/gabriel-silva-028707143/",
     "summary": "Ph.D. Candidate in Computer Science (Expected 2026) specializing in Natural Language Processing and Knowledge Graphs. Expertise in fusing Large Language Models (LLMs) with Graph Machine Learning for Open Information Extraction. Proven track record of publishing in top-tier venues (ACL Workshops, LREC) and securing competitive research funding. Committed to delivering high-quality research and fostering positive relationships within teams.",
     "location": {
       "address": "",
@@ -59,8 +59,8 @@
       "name": "G-Lok Systems",
       "position": "Web and Android Developer",
       "location": "United Kingdom (Remote)",
-      "startDate": "2022-01-01",
-      "endDate": "2022-03-01",
+      "startDate": "2020-01-01",
+      "endDate": "2020-04-01",
       "summary": "Development of an Android app and Web Page for visualization of GPS signals by trucks using IoT devices.",
       "highlights": []
     },
