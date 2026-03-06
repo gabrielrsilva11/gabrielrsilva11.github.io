@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-06'
 papers:
   vdneGOgAAAAJ:9ZlFYXVOiuMC:
     citations: 0
     title: "O PAPEL DAS EMPRESAS DA IND\xDASTRIA DA MODA PARA O ALCANCE DOS OBJETIVOS DO DESENVOLVIMENTO SUSTENT\xC1VEL"
     year: Unknown Year
   vdneGOgAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: First assessment of graph machine learning approaches to Portuguese named entity recognition
     year: '2024'
   vdneGOgAAAAJ:WF5omc3nYNoC:
@@ -19,8 +19,8 @@ papers:
     year: '2025'
   vdneGOgAAAAJ:YOwf2qJgpHMC:
     citations: 0
-    title: Deepening Graph-Based Approaches for Portuguese Open Information Extraction with Llm Augmentation
-    year: Unknown Year
+    title: Deepening graph-based approaches for Portuguese open information extraction with LLM augmentation
+    year: '2026'
   vdneGOgAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: OPENER-Open-NER in domains without annotated resources
@@ -30,7 +30,7 @@ papers:
     title: How Green Are the Competency Requirements for Project Managers? An Exploratory Analysis of Online Job Adds for The Region of Aveiro
     year: '2022'
   vdneGOgAAAAJ:_FxGoFyzp5QC:
-    citations: 1
+    citations: 2
     title: Advancing open information extraction for Portuguese by leveraging graph structures and large language models
     year: '2024'
   vdneGOgAAAAJ:aqlVkmm33-oC:
@@ -38,7 +38,7 @@ papers:
     title: Inductive Learning on Heterogeneous Graphs Enhanced by LLMs for Software Mention Detection
     year: '2025'
   vdneGOgAAAAJ:eQOLeE2rZwMC:
-    citations: 2
+    citations: 3
     title: "Recycling of a Polymer Mixture Through Dissolution\u2013Precipitation and Development of Machine Learning Models to Assess Polymer/Solvent Suitability"
     year: '2025'
   vdneGOgAAAAJ:mVmsd5A6BfQC:
@@ -58,6 +58,6 @@ papers:
     title: Automatic generation of lymphoma post-treatment PETs using conditional-GANs
     year: '2019'
   vdneGOgAAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: A Framework for Fostering Easier Access to Enriched Textual Information
     year: '2023'
